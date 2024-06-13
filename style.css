@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100..700&display=swap');
+* {
+    background: #2a2a2a;
+}
+.html {
+    display: none;
+}
+
+input, button {
+    border: 1px solid black;
+    background: rgb(198, 198, 198);
+    border-radius: 5px;
+    text-align: center;
+}
+.brain {
+    position: relative;
+    left: -30px;
+    
+}
+.input {
+    text-align: center;
+}
+.c {
+    position: absolute;
+    background: #171717;
+    z-index: 9999;
+    left: 30.8%;
+    top: 175px;
+}
